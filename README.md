@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bukhari Kibuka @bumahkib7
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning SpringBoot/java
+- 🌱 I’m currently learning Quarkus/java
 - 💞️ I’m looking to collaborate on a SpringBoot Project
 - 📫 How to reach me "Bukhari.kibuka7@gmail.com"
 
