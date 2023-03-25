@@ -1,9 +1,9 @@
 # 💫 About Me:
-:computer: 4 years of experience in Java, Python, web frameworks, and frontend technologies
-:rocket: Completed projects such as public transport system with payment, CRM modules, and search engine implementation
-:bulb: Proactive learner, staying up-to-date with the latest technology
-:busts_in_silhouette: Strong team player and communicator, excelling in collaborative environments
-:goal_net: Seeking challenging roles to make meaningful contributions to organizations
+:computer: 4 years of experience in Java, Python, web frameworks, and frontend technologies.
+:rocket: Completed projects such as public transport system with payment, CRM modules, and search engine implementation.
+:bulb: Proactive learner, staying up-to-date with the latest technology.
+:busts_in_silhouette: Strong team player and communicator, excelling in collaborative environments.
+:goal_net: Seeking challenging roles to make meaningful contributions to organizations.
 
 
 ## 🌐 Socials:
