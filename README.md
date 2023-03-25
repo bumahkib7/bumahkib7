@@ -1,5 +1,9 @@
 # 💫 About Me:
-As a software engineer with 4 years of experience in various technologies such as Java, Python, FastApi, Django, Quarkus, Spring, Docker, Kubernetes, Angular, React, and Flutter,<br> I have worked on projects like a public transport administration system, where I developed payment and CRM modules,<br> and implemented a search engine using Hibernate Search and Elasticsearch. I am a proactive learner, a team player, and a strong communicator, <br>seeking a challenging role to contribute my skills and experience to an organization.
+:computer: 4 years of experience in Java, Python, web frameworks, and frontend technologies
+:rocket: Completed projects such as public transport system with payment, CRM modules, and search engine implementation
+:bulb: Proactive learner, staying up-to-date with the latest technology
+:busts_in_silhouette: Strong team player and communicator, excelling in collaborative environments
+:goal_net: Seeking challenging roles to make meaningful contributions to organizations
 
 
 ## 🌐 Socials:
