@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=bumahkib&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 :computer: 4 years of experience in Java, Python, web frameworks, and frontend technologies.
 
 
@@ -32,6 +34,7 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bumahkib7&icon=0&color=0)](https://visitcount.itsvg.in)
