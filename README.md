@@ -1,10 +1,10 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=bumahkib&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-:computer: 4 years of experience in Java, Python, web frameworks, and frontend technologies.
+:computer: 5 years of experience in Java, kotlin, web frameworks, and frontend technologies.
 
 
-:rocket: Completed projects such as public transport system with payment, CRM modules, and search engine implementation.
+:rocket: Completed projects such as  Fleet management systems.
 
 
 :bulb: Proactive learner, staying up-to-date with the latest technology.
